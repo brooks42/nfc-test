@@ -1,0 +1,14 @@
+{
+  "name": "nfc-test",
+  "version": "1.0.0",
+  "description": "A tool to test NFC coming from mobile browsers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
